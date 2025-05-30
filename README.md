@@ -16,6 +16,7 @@
 * Operating Systems
 
   * Linux (Ubuntu, RedHat, Kali)
+  * Linux Administration.
   * Windows Server
 * Scripting
 
